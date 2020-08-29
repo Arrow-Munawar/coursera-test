@@ -61,7 +61,7 @@ h2{ font-size: 1.5rem;
 	.col-1,.col-2{
 		width: 45%;
 		border: 1px solid black;
-	
+	        height:300px
 		}
 	.col-3{
 		width: 92.25%;
