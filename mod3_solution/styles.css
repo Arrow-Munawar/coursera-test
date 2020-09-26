@@ -1,1 +1,49 @@
+body {
+  font-size: 32px;
+  color: #fff;
+  background-color: #61122f;
+  height: auto;
+}
+.navbar-toggler {
+background-color: #3F729B;
+border: solid 2px black;
+}
+.navbar-brand 
+{ 
+  
+  padding: 10px;
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  line-height: .75;
+  
+}
+.nav-item{
+  background-color:#2BBBAD ;
+  border: 1px solid black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+h2,h3{
+  margin-top: 30px;
+  text-align: center;
+  color: #b71c1c;
+}
+p{
+  color: black;
+}
+.col{
+  width: 100%;
+  background-color: #FFC0CB;
+  font-size: 0.6em;
+}
+.col h3{
+  color: black;
+  font-size: 32px;
+}
 
